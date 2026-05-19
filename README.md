@@ -122,7 +122,7 @@ Estou aberto a oportunidades, colaborações e discussões sobre:
 
 <div align="center">
   
-**"A tecnologia é a arte de transformar sonhos em realidade."**
+**"Todos os caminhos levam à Carcosa."**
 
 ![Visitors](https://komarev.com/ghpvc/?username=GioOGabriel&color=blueviolet)
 
